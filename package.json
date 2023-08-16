@@ -1,0 +1,22 @@
+{
+  "name": "darkpinkpro",
+  "version": "0.0.1",
+  "publisher": "AhmedSaid",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "displayName": "Dark Pink Pro",
+  "description": "DARK Theme With Pink Accents And Vibrant Colors",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "dark pink",
+    "pink",
+    "dark theme",
+    "ahmedsaid"
+  ],
+  "pricing": "Free"
+}
