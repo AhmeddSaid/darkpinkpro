@@ -18,5 +18,10 @@
     "dark theme",
     "ahmedsaid"
   ],
-  "pricing": "Free"
+  "pricing": "Free",
+  "icon": "./As.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhmeddSaid/darkpinkpro"
+  }
 }
