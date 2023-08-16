@@ -23,5 +23,14 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/AhmeddSaid/darkpinkpro"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Pink Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-pink-pro-color-theme.json"
+      }
+    ]
   }
 }
