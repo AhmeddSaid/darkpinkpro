@@ -25,9 +25,15 @@
 <a href="https://www.buymeacoffee.com/ahmedsaid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
 
-## 💖 Screenshot <a name = "deployment"></a>
+## 💖 Screenshots <a name = "deployment"></a>
 
-<img width=600px src="Screenshot.png">
+<img width=800px style="margin: 20px; text-align:center; margin:auto; display: block;"  src="Screenshot_192.png">
+<div style="display: flex; flex-direction: column; align-items: center">
+<img width=800px style="margin: 10px" src="Screenshot.png">
+<img width=800px style="margin: 10px" src="JAlfqzMK-default.jpeg">
+<img width=800px style="margin: 10px" src="JAlfqzMK-commandPalette.jpeg">
+<img width=800px style="margin: 10px" src="JAlfqzMK-panelTerminal.jpeg">
+</div>
 
 ## ✍️ Authors <a name = "authors"></a>
 
