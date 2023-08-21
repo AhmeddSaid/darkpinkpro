@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="As.png" alt="Project logo"></a>
+ <img width=70%  src="DarkPinkPro.png" alt="Project logo"></a>
 </p>
 
 <h1 align="center">Dark Pink Pro</h1>
